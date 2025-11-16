@@ -1,10 +1,10 @@
-# MIAP Digital Literacy – Personal GitHub Page
+# MIAP resource collection – Personal GitHub Page
 
 This repository contains a small website for my MIAP Digital Literacy class.
 
 ## What is on this page?
 
-This website will shows my digital literacy skill from class
+This website will shows some resouces
 
 ## GitHub Pages
 
