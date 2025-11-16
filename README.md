@@ -10,7 +10,7 @@ This website will shows my digital literacy skill from class
 
 The site is available at:
 
-> https://hw4090-creat.github.io/miap-diglit-page/
+> [https://hw4090-creat.github.io/miap-diglit-page/](https://hw4090-create.github.io/My-First-Github-Project/)
 
 ## Versioning
 
